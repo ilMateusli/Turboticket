@@ -2,7 +2,7 @@ import type {
   AuthenticationCreds,
   AuthenticationState,
   SignalDataTypeMap
-} from "@whiskeysockets/baileys";
+} from "@adiwajshing/baileys";
 import { BufferJSON, initAuthCreds, proto } from "@adiwajshing/baileys";
 import Whatsapp from "../models/Whatsapp";
 

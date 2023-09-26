@@ -7,7 +7,7 @@ import makeWASocket, {
   LegacyAuthenticationCreds,
   makeInMemoryStore,
   makeWALegacySocket
-} from "@whiskeysockets/baileys";
+} from "@adiwajshing/baileys";
 import P from "pino";
 
 import Whatsapp from "../models/Whatsapp";
